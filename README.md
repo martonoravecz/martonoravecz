@@ -6,4 +6,4 @@ I'm currently studying for my Computer Science Engineer MSc degree at Budapest U
 
 I'm currently learning following frameworks: skilearn, Spring Boot and Nodejs. My learning projects will be available shortly
 
-Also I looking for work preferably starting from May/June of 2021.
+Also I looking for work preferably starting from June of 2021.
